@@ -1,6 +1,6 @@
 # Assignments
 
-Lab 1: https://classroom.github.com/a/CKNZc7V_
+Lab 1: (Link)[https://classroom.github.com/a/CKNZc7V_]
 
 # Other materials
 
