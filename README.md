@@ -8,7 +8,9 @@ Lab 3: [https://classroom.github.com/a/SRCPV_Vz](https://classroom.github.com/a/
 
 Lab 4: [https://classroom.github.com/a/EhBGKDL5](https://classroom.github.com/a/EhBGKDL5)
 
-:octocat: Lab 5: [https://classroom.github.com/a/coczZY5e](https://classroom.github.com/a/coczZY5e)
+Lab 5: [https://classroom.github.com/a/coczZY5e](https://classroom.github.com/a/coczZY5e)
+
+:octocat: Lab 6: [https://classroom.github.com/a/4iziXbwx](https://classroom.github.com/a/4iziXbwx)
 
 Homework 1: [https://classroom.github.com/a/Ky5HfQcQ](https://classroom.github.com/a/Ky5HfQcQ)
 
