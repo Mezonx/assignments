@@ -10,7 +10,9 @@ Lab 4: [https://classroom.github.com/a/EhBGKDL5](https://classroom.github.com/a/
 
 Lab 5: [https://classroom.github.com/a/coczZY5e](https://classroom.github.com/a/coczZY5e)
 
-:octocat: Lab 6: [https://classroom.github.com/a/4iziXbwx](https://classroom.github.com/a/4iziXbwx)
+Lab 6: [https://classroom.github.com/a/4iziXbwx](https://classroom.github.com/a/4iziXbwx)
+
+:octocat: Lab 7: [https://classroom.github.com/a/maZWXt_3] (https://classroom.github.com/a/maZWXt_3)
 
 Homework 1: [https://classroom.github.com/a/Ky5HfQcQ](https://classroom.github.com/a/Ky5HfQcQ)
 
@@ -18,7 +20,9 @@ Homework 2: [https://classroom.github.com/a/c_dPveYJ](https://classroom.github.c
 
 Homework 3: [https://classroom.github.com/a/txH92t5u](https://classroom.github.com/a/txH92t5u)
 
-:octocat: Homework 4: [https://classroom.github.com/a/X68SMYyY](https://classroom.github.com/a/X68SMYyY)
+Homework 4: [https://classroom.github.com/a/X68SMYyY](https://classroom.github.com/a/X68SMYyY)
+
+:octocat: Homework 5: [https://classroom.github.com/a/1kuYIdZH] (https://classroom.github.com/a/1kuYIdZH)
 
 # Other materials
 
