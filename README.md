@@ -12,7 +12,7 @@ Lab 5: [https://classroom.github.com/a/coczZY5e](https://classroom.github.com/a/
 
 Lab 6: [https://classroom.github.com/a/4iziXbwx](https://classroom.github.com/a/4iziXbwx)
 
-:octocat: Lab 7: https://classroom.github.com/a/maZWXt_3 
+:octocat: Lab 7: [https://classroom.github.com/a/maZWXt_3](https://classroom.github.com/a/maZWXt_3)
 
 Homework 1: [https://classroom.github.com/a/Ky5HfQcQ](https://classroom.github.com/a/Ky5HfQcQ)
 
@@ -22,7 +22,7 @@ Homework 3: [https://classroom.github.com/a/txH92t5u](https://classroom.github.c
 
 Homework 4: [https://classroom.github.com/a/X68SMYyY](https://classroom.github.com/a/X68SMYyY)
 
-:octocat: Homework 5: https://classroom.github.com/a/1kuYIdZH
+:octocat: Homework 5: [https://classroom.github.com/a/1kuYIdZH](https://classroom.github.com/a/1kuYIdZH)
 
 # Other materials
 
