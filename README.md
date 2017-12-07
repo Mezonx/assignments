@@ -14,13 +14,13 @@ Lab 6: [https://classroom.github.com/a/4iziXbwx](https://classroom.github.com/a/
 
 :octocat: Lab 7: [https://classroom.github.com/a/maZWXt_3](https://classroom.github.com/a/maZWXt_3) - [solution](https://github.com/TP1-HHU/lab7)
 
-Homework 1: [https://classroom.github.com/a/Ky5HfQcQ](https://classroom.github.com/a/Ky5HfQcQ)
+Homework 1: [https://classroom.github.com/a/Ky5HfQcQ](https://classroom.github.com/a/Ky5HfQcQ) - [solution](https://github.com/TP1-HHU/hw1)
 
-Homework 2: [https://classroom.github.com/a/c_dPveYJ](https://classroom.github.com/a/c_dPveYJ)
+Homework 2: [https://classroom.github.com/a/c_dPveYJ](https://classroom.github.com/a/c_dPveYJ) - [solution](https://github.com/TP1-HHU/hw2)
 
-Homework 3: [https://classroom.github.com/a/txH92t5u](https://classroom.github.com/a/txH92t5u)
+Homework 3: [https://classroom.github.com/a/txH92t5u](https://classroom.github.com/a/txH92t5u) - [solution](https://github.com/TP1-HHU/hw3)
 
-Homework 4: [https://classroom.github.com/a/X68SMYyY](https://classroom.github.com/a/X68SMYyY)
+Homework 4: [https://classroom.github.com/a/X68SMYyY](https://classroom.github.com/a/X68SMYyY) - [solution](https://github.com/TP1-HHU/hw4)
 
 :octocat: Homework 5: [https://classroom.github.com/a/1kuYIdZH](https://classroom.github.com/a/1kuYIdZH)
 
