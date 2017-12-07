@@ -6,13 +6,13 @@ Lab 2: [https://classroom.github.com/a/qyZMLFVm](https://classroom.github.com/a/
 
 Lab 3: [https://classroom.github.com/a/SRCPV_Vz](https://classroom.github.com/a/SRCPV_Vz)
 
-Lab 4: [https://classroom.github.com/a/EhBGKDL5](https://classroom.github.com/a/EhBGKDL5)
+Lab 4: [https://classroom.github.com/a/EhBGKDL5](https://classroom.github.com/a/EhBGKDL5) - [solution](https://github.com/TP1-HHU/lab4)
 
-Lab 5: [https://classroom.github.com/a/coczZY5e](https://classroom.github.com/a/coczZY5e)
+Lab 5: [https://classroom.github.com/a/coczZY5e](https://classroom.github.com/a/coczZY5e) - [solution](https://github.com/TP1-HHU/lab5)
 
-Lab 6: [https://classroom.github.com/a/4iziXbwx](https://classroom.github.com/a/4iziXbwx)
+Lab 6: [https://classroom.github.com/a/4iziXbwx](https://classroom.github.com/a/4iziXbwx) - [solution](https://github.com/TP1-HHU/lab6)
 
-:octocat: Lab 7: [https://classroom.github.com/a/maZWXt_3](https://classroom.github.com/a/maZWXt_3)
+:octocat: Lab 7: [https://classroom.github.com/a/maZWXt_3](https://classroom.github.com/a/maZWXt_3) - [solution](https://github.com/TP1-HHU/lab7)
 
 Homework 1: [https://classroom.github.com/a/Ky5HfQcQ](https://classroom.github.com/a/Ky5HfQcQ)
 
