@@ -28,7 +28,9 @@ Homework 3: [https://classroom.github.com/a/txH92t5u](https://classroom.github.c
 
 Homework 4: [https://classroom.github.com/a/X68SMYyY](https://classroom.github.com/a/X68SMYyY) - [solution](https://github.com/TP1-HHU/hw4)
 
-:octocat: Homework 5: [https://classroom.github.com/a/1kuYIdZH](https://classroom.github.com/a/1kuYIdZH) - [solution](https://github.com/TP1-HHU/hw5)
+Homework 5: [https://classroom.github.com/a/1kuYIdZH](https://classroom.github.com/a/1kuYIdZH) - [solution](https://github.com/TP1-HHU/hw5)
+
+:octocat: Homework 6: [https://classroom.github.com/a/67OiWVJ5](https://classroom.github.com/a/67OiWVJ5)
 
 # Other materials
 
