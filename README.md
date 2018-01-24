@@ -20,7 +20,9 @@ Lab 9: [https://classroom.github.com/a/3sG9CW55](https://classroom.github.com/a/
 
 Lab 10: [https://classroom.github.com/a/39iBb_wl](https://classroom.github.com/a/39iBb_wl) - [solution](https://github.com/TP1-HHU/lab10)
 
-:octocat: Lab 11: [https://classroom.github.com/a/xioR-Ri4](https://classroom.github.com/a/xioR-Ri4)
+Lab 11: [https://classroom.github.com/a/xioR-Ri4](https://classroom.github.com/a/xioR-Ri4)
+
+:octocat: Lab 12: [https://classroom.github.com/a/gQwSmW5-](https://classroom.github.com/a/gQwSmW5-)
 
 Homework 1: [https://classroom.github.com/a/Ky5HfQcQ](https://classroom.github.com/a/Ky5HfQcQ) - [solution](https://github.com/TP1-HHU/hw1)
 
