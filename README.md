@@ -1,46 +1,5 @@
 # Assignments
 
-Lab 1: [https://classroom.github.com/a/CKNZc7V_](https://classroom.github.com/a/CKNZc7V_)
+Lab 1: :octocat: [https://classroom.github.com/a/CVwxpvbR](https://classroom.github.com/a/CVwxpvbR)
 
-Lab 2: [https://classroom.github.com/a/qyZMLFVm](https://classroom.github.com/a/qyZMLFVm)
 
-Lab 3: [https://classroom.github.com/a/SRCPV_Vz](https://classroom.github.com/a/SRCPV_Vz)
-
-Lab 4: [https://classroom.github.com/a/EhBGKDL5](https://classroom.github.com/a/EhBGKDL5) - [solution](https://github.com/TP1-HHU/lab4)
-
-Lab 5: [https://classroom.github.com/a/coczZY5e](https://classroom.github.com/a/coczZY5e) - [solution](https://github.com/TP1-HHU/lab5)
-
-Lab 6: [https://classroom.github.com/a/4iziXbwx](https://classroom.github.com/a/4iziXbwx) - [solution](https://github.com/TP1-HHU/lab6)
-
-Lab 7: [https://classroom.github.com/a/maZWXt_3](https://classroom.github.com/a/maZWXt_3) - [solution](https://github.com/TP1-HHU/lab7)
-
-Lab 8: [https://classroom.github.com/a/NFyFMG0A](https://classroom.github.com/a/NFyFMG0A)
-
-Lab 9: [https://classroom.github.com/a/3sG9CW55](https://classroom.github.com/a/3sG9CW55)
-
-Lab 10: [https://classroom.github.com/a/39iBb_wl](https://classroom.github.com/a/39iBb_wl) - [solution](https://github.com/TP1-HHU/lab10)
-
-Lab 11: [https://classroom.github.com/a/xioR-Ri4](https://classroom.github.com/a/xioR-Ri4)
-
-Lab 12: [https://classroom.github.com/a/gQwSmW5-](https://classroom.github.com/a/gQwSmW5-)
-
-:octocat: Lab 13: [https://classroom.github.com/a/vCI57Zry](https://classroom.github.com/a/vCI57Zry)
-
-Homework 1: [https://classroom.github.com/a/Ky5HfQcQ](https://classroom.github.com/a/Ky5HfQcQ) - [solution](https://github.com/TP1-HHU/hw1)
-
-Homework 2: [https://classroom.github.com/a/c_dPveYJ](https://classroom.github.com/a/c_dPveYJ) - [solution](https://github.com/TP1-HHU/hw2)
-
-Homework 3: [https://classroom.github.com/a/txH92t5u](https://classroom.github.com/a/txH92t5u) - [solution](https://github.com/TP1-HHU/hw3)
-
-Homework 4: [https://classroom.github.com/a/X68SMYyY](https://classroom.github.com/a/X68SMYyY) - [solution](https://github.com/TP1-HHU/hw4)
-
-Homework 5: [https://classroom.github.com/a/1kuYIdZH](https://classroom.github.com/a/1kuYIdZH) - [solution](https://github.com/TP1-HHU/hw5)
-
-:octocat: Homework 6: [https://classroom.github.com/a/67OiWVJ5](https://classroom.github.com/a/67OiWVJ5) -[solution](https://github.com/TP1-HHU/hw6)
-
-# Other materials
-
-* The VirtualBox Appliance file and the lecture slides can be found on the TP1 webpage,
-accessable only with password and username provided in the lecture.
-
-* :new: On the TP1 website we added a tutorial on how to install VirtualBox 
