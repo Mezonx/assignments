@@ -1,6 +1,7 @@
 # Lab assignments
 
 Lab 1: [https://classroom.github.com/a/CVwxpvbR](https://classroom.github.com/a/CVwxpvbR)
+
 Lab 2: :octocat: [https://classroom.github.com/a/lUaxYjpY](https://classroom.github.com/a/lUaxYjpY)
 
 # Homework assignments
