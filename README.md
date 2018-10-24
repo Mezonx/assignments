@@ -8,4 +8,4 @@ Lab 2: :octocat: [https://classroom.github.com/a/lUaxYjpY](https://classroom.git
 
 Homework 1: :octocat: [https://classroom.github.com/a/F7CW8m7U](https://classroom.github.com/a/F7CW8m7U)
 
-Homework 2:  [https://classroom.github.com/a/fWbM0N-J](https://classroom.github.com/a/fWbM0N-J)
+Homework 2: under construction, back soon, 8:18am Wed
