@@ -8,6 +8,6 @@ Lab 3: :octocat: [https://classroom.github.com/a/ZRvfID9M](https://classroom.git
 
 # Homework assignments
 
-Homework 1:  [https://classroom.github.com/a/F7CW8m7U](https://classroom.github.com/a/F7CW8m7U)
+Homework 1:  [https://classroom.github.com/a/F7CW8m7U](https://classroom.github.com/a/F7CW8m7U) Solution: [hw1](https://github.com/TP1-HHU/hw1)
 
 Homework 2: :octocat: [https://classroom.github.com/a/dBOI_Kqy](https://classroom.github.com/a/dBOI_Kqy)
