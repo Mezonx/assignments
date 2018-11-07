@@ -16,6 +16,6 @@ Homework 1:  [https://classroom.github.com/a/F7CW8m7U](https://classroom.github.
 
 Homework 2: [https://classroom.github.com/a/dBOI_Kqy](https://classroom.github.com/a/dBOI_Kqy) Solution: [hw2](https://github.com/TP1-HHU/hw2)
 
-Homework 3:  [https://classroom.github.com/a/cGtZWgRW](https://classroom.github.com/a/cGtZWgRW)
+Homework 3:  [https://classroom.github.com/a/cGtZWgRW](https://classroom.github.com/a/cGtZWgRW) Solution: [hw3](https://github.com/TP1-HHU/hw3)
 
 Homework 4: :octocat: [https://classroom.github.com/a/E3O2Y4Sv](https://classroom.github.com/a/E3O2Y4Sv)
