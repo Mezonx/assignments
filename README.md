@@ -8,7 +8,7 @@ Lab 3: [https://classroom.github.com/a/ZRvfID9M](https://classroom.github.com/a/
 
 Lab 4: [https://classroom.github.com/a/qwNgOVSX](https://classroom.github.com/a/qwNgOVSX) Solution: [lab4](https://github.com/TP1-HHU/lab4)
 
-Lab 5: :octocat:[https://classroom.github.com/a/yTuQoax-](https://classroom.github.com/a/yTuQoax-)
+Lab 5: [https://classroom.github.com/a/yTuQoax-](https://classroom.github.com/a/yTuQoax-) Solution: [lab5](https://github.com/TP1-HHU/lab5)
 
 # Homework assignments
 
