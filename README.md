@@ -10,7 +10,7 @@ Lab 4: [https://classroom.github.com/a/qwNgOVSX](https://classroom.github.com/a/
 
 Lab 5: [https://classroom.github.com/a/yTuQoax-](https://classroom.github.com/a/yTuQoax-) Solution: [lab5](https://github.com/TP1-HHU/lab5)
 
-Lab 6: [https://classroom.github.com/a/Wru1Ry0l](https://classroom.github.com/a/Wru1Ry0l) 
+Lab 6: :fire: [https://classroom.github.com/a/Wru1Ry0l](https://classroom.github.com/a/Wru1Ry0l) 
 
 # Homework assignments
 
