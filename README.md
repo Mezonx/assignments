@@ -10,6 +10,8 @@ Lab 4: [https://classroom.github.com/a/qwNgOVSX](https://classroom.github.com/a/
 
 Lab 5: [https://classroom.github.com/a/yTuQoax-](https://classroom.github.com/a/yTuQoax-) Solution: [lab5](https://github.com/TP1-HHU/lab5)
 
+Lab 6: [https://classroom.github.com/a/Wru1Ry0l](https://classroom.github.com/a/Wru1Ry0l) 
+
 # Homework assignments
 
 Homework 1:  [https://classroom.github.com/a/F7CW8m7U](https://classroom.github.com/a/F7CW8m7U) Solution: [hw1](https://github.com/TP1-HHU/hw1)
@@ -18,4 +20,6 @@ Homework 2: [https://classroom.github.com/a/dBOI_Kqy](https://classroom.github.c
 
 Homework 3:  [https://classroom.github.com/a/cGtZWgRW](https://classroom.github.com/a/cGtZWgRW) Solution: [hw3](https://github.com/TP1-HHU/hw3)
 
-Homework 4: :octocat: [https://classroom.github.com/a/E3O2Y4Sv](https://classroom.github.com/a/E3O2Y4Sv)
+Homework 4: [https://classroom.github.com/a/E3O2Y4Sv](https://classroom.github.com/a/E3O2Y4Sv)
+
+Homework 5: :octocat: [https://classroom.github.com/a/UV-QtlJl](https://classroom.github.com/a/UV-QtlJl)
