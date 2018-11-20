@@ -24,6 +24,6 @@ Homework 3:  [https://classroom.github.com/a/cGtZWgRW](https://classroom.github.
 
 Homework 4: [https://classroom.github.com/a/E3O2Y4Sv](https://classroom.github.com/a/E3O2Y4Sv) Solution: [hw4](https://github.com/TP1-HHU/hw4)
 
-Homework 5: :octocat: [https://classroom.github.com/a/UV-QtlJl](https://classroom.github.com/a/UV-QtlJl)
+Homework 5: [https://classroom.github.com/a/UV-QtlJl](https://classroom.github.com/a/UV-QtlJl)
 
 Homework 6: :octocat: [https://classroom.github.com/a/_WRBM9gF](https://classroom.github.com/a/_WRBM9gF)
