@@ -26,4 +26,4 @@ Homework 4: [https://classroom.github.com/a/E3O2Y4Sv](https://classroom.github.c
 
 Homework 5: [https://classroom.github.com/a/UV-QtlJl](https://classroom.github.com/a/UV-QtlJl)
 
-Homework 6: :octocat: [https://classroom.github.com/a/_WRBM9gF](https://classroom.github.com/a/_WRBM9gF)
+
