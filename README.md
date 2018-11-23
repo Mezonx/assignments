@@ -12,7 +12,7 @@ Lab 5: [https://classroom.github.com/a/yTuQoax-](https://classroom.github.com/a/
 
 Lab 6: [https://classroom.github.com/a/Wru1Ry0l](https://classroom.github.com/a/Wru1Ry0l) Solution: [lab6](https://github.com/TP1-HHU/lab6)
 
-Lab 7: :octocat: [https://classroom.github.com/a/7d6Iw957](https://classroom.github.com/a/7d6Iw957)
+Lab 7: :octocat: [https://classroom.github.com/a/7d6Iw957](https://classroom.github.com/a/7d6Iw957) Solution: [lab7](https://github.com/TP1-HHU/lab7)
 
 # Homework assignments
 
