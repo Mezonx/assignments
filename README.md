@@ -14,7 +14,7 @@ Lab 6: [https://classroom.github.com/a/Wru1Ry0l](https://classroom.github.com/a/
 
 Lab 7: [https://classroom.github.com/a/7d6Iw957](https://classroom.github.com/a/7d6Iw957) Solution: [lab7](https://github.com/TP1-HHU/lab7)
 
-Lab 8: [https://classroom.github.com/a/-X0GxfE4](https://classroom.github.com/a/-X0GxfE4)
+Lab 8: [https://classroom.github.com/a/-X0GxfE4](https://classroom.github.com/a/-X0GxfE4) Solution: [lab8](https://github.com/TP1-HHU/lab8)
 
 Lab 9: :octocat: [https://classroom.github.com/a/Ak9stxVc](https://classroom.github.com/a/Ak9stxVc)
 
