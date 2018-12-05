@@ -14,7 +14,9 @@ Lab 6: [https://classroom.github.com/a/Wru1Ry0l](https://classroom.github.com/a/
 
 Lab 7: [https://classroom.github.com/a/7d6Iw957](https://classroom.github.com/a/7d6Iw957) Solution: [lab7](https://github.com/TP1-HHU/lab7)
 
-Lab 8: :octocat: [https://classroom.github.com/a/-X0GxfE4](https://classroom.github.com/a/-X0GxfE4)
+Lab 8: [https://classroom.github.com/a/-X0GxfE4](https://classroom.github.com/a/-X0GxfE4)
+
+Lab 9: :octocat: [https://classroom.github.com/a/Ak9stxVc](https://classroom.github.com/a/Ak9stxVc)
 
 # Homework assignments
 
@@ -29,3 +31,5 @@ Homework 4: [https://classroom.github.com/a/E3O2Y4Sv](https://classroom.github.c
 Homework 5: [https://classroom.github.com/a/UV-QtlJl](https://classroom.github.com/a/UV-QtlJl)
 
 Homework 6: [https://classroom.github.com/a/_WRBM9gF](https://classroom.github.com/a/_WRBM9gF)
+
+Homework 7: [https://classroom.github.com/a/p5eQOzXX](https://classroom.github.com/a/p5eQOzXX)
