@@ -33,3 +33,5 @@ Homework 5: [https://classroom.github.com/a/UV-QtlJl](https://classroom.github.c
 Homework 6: [https://classroom.github.com/a/_WRBM9gF](https://classroom.github.com/a/_WRBM9gF)
 
 Homework 7: [https://classroom.github.com/a/p5eQOzXX](https://classroom.github.com/a/p5eQOzXX)
+
+Homework 8: :octocat::fire: [https://classroom.github.com/a/G19bVNG-](https://classroom.github.com/a/G19bVNG-)
