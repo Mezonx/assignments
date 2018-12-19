@@ -18,7 +18,9 @@ Lab 8: [https://classroom.github.com/a/-X0GxfE4](https://classroom.github.com/a/
 
 Lab 9:  [https://classroom.github.com/a/Ak9stxVc](https://classroom.github.com/a/Ak9stxVc) Solution: [lab9](https://github.com/TP1-HHU/lab9)
 
-Lab 10: :fire: :octocat: :fire:  [https://classroom.github.com/a/ZClP2iv1](https://classroom.github.com/a/ZClP2iv1)
+Lab 10: [https://classroom.github.com/a/ZClP2iv1](https://classroom.github.com/a/ZClP2iv1) Solution: [lab10](https://github.com/TP1-HHU/lab10)
+
+Lab 11: :fire: :octocat: :fire:   [https://classroom.github.com/a/ABmPuOLx](https://classroom.github.com/a/ABmPuOLx)
 
 # Homework assignments
 
