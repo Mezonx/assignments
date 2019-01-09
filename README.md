@@ -22,6 +22,8 @@ Lab 10: [https://classroom.github.com/a/ZClP2iv1](https://classroom.github.com/a
 
 Lab 11:   [https://classroom.github.com/a/ABmPuOLx](https://classroom.github.com/a/ABmPuOLx) Solution: [lab10](https://github.com/TP1-HHU/lab11)
 
+Lab 12: :sparkles: [https://classroom.github.com/a/pTN8mkSR](https://classroom.github.com/a/pTN8mkSR)
+
 # Homework assignments
 
 Homework 1:  [https://classroom.github.com/a/F7CW8m7U](https://classroom.github.com/a/F7CW8m7U) Solution: [hw1](https://github.com/TP1-HHU/hw1)
