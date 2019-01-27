@@ -46,4 +46,4 @@ Homework 7: [https://classroom.github.com/a/p5eQOzXX](https://classroom.github.c
 
 Homework 8:  [https://classroom.github.com/a/G19bVNG-](https://classroom.github.com/a/G19bVNG-)
 
-Homework 9: :octocat::fire: [https://classroom.github.com/a/Ajjg_TV1](https://classroom.github.com/a/Ajjg_TV1)
+Homework 9:  [https://classroom.github.com/a/Ajjg_TV1](https://classroom.github.com/a/Ajjg_TV1) Solution: [hw9](https://github.com/TP1-HHU/hw9)
