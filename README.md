@@ -38,12 +38,12 @@ Homework 3:  [https://classroom.github.com/a/cGtZWgRW](https://classroom.github.
 
 Homework 4: [https://classroom.github.com/a/E3O2Y4Sv](https://classroom.github.com/a/E3O2Y4Sv) Solution: [hw4](https://github.com/TP1-HHU/hw4)
 
-Homework 5: [https://classroom.github.com/a/UV-QtlJl](https://classroom.github.com/a/UV-QtlJl)
+Homework 5: [https://classroom.github.com/a/UV-QtlJl](https://classroom.github.com/a/UV-QtlJl) Solution: [hw5](https://github.com/TP1-HHU/hw5)
 
 Homework 6: [https://classroom.github.com/a/_WRBM9gF](https://classroom.github.com/a/_WRBM9gF)
 
-Homework 7: [https://classroom.github.com/a/p5eQOzXX](https://classroom.github.com/a/p5eQOzXX)
+Homework 7: [https://classroom.github.com/a/p5eQOzXX](https://classroom.github.com/a/p5eQOzXX) Solution: see lecture notes
 
-Homework 8:  [https://classroom.github.com/a/G19bVNG-](https://classroom.github.com/a/G19bVNG-)
+Homework 8:  [https://classroom.github.com/a/G19bVNG-](https://classroom.github.com/a/G19bVNG-) Solution: see lecture notes
 
 Homework 9:  [https://classroom.github.com/a/Ajjg_TV1](https://classroom.github.com/a/Ajjg_TV1) Solution: [hw9](https://github.com/TP1-HHU/hw9)
