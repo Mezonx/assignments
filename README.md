@@ -40,7 +40,7 @@ Homework 4: [https://classroom.github.com/a/E3O2Y4Sv](https://classroom.github.c
 
 Homework 5: [https://classroom.github.com/a/UV-QtlJl](https://classroom.github.com/a/UV-QtlJl) Solution: [hw5](https://github.com/TP1-HHU/hw5)
 
-Homework 6: [https://classroom.github.com/a/_WRBM9gF](https://classroom.github.com/a/_WRBM9gF)
+Homework 6: [https://classroom.github.com/a/_WRBM9gF](https://classroom.github.com/a/_WRBM9gF) Solution: [hw6](https://github.com/TP1-HHU/hw6)
 
 Homework 7: [https://classroom.github.com/a/p5eQOzXX](https://classroom.github.com/a/p5eQOzXX) Solution: see lecture notes
 
