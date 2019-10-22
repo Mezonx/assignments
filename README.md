@@ -6,4 +6,4 @@ Lab 2: to come
 
 # Homework
 
-# Hw 1: [https://classroom.github.com/a/O9OHyGdN](https://classroom.github.com/a/O9OHyGdN)
+Hw 1: [https://classroom.github.com/a/O9OHyGdN](https://classroom.github.com/a/O9OHyGdN)
