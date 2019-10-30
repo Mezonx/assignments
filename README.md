@@ -2,7 +2,7 @@
 
 Lab 1: [https://classroom.github.com/a/uPKxUx8_](https://classroom.github.com/a/uPKxUx8_) ([solution](https://github.com/TP1-HHU/lab1))
 
-Lab 2: [https://classroom.github.com/a/z8TORSA1](https://classroom.github.com/a/z8TORSA1)
+Lab 2: [https://classroom.github.com/a/z8TORSA1](https://classroom.github.com/a/z8TORSA1) ([solution](https://github.com/TP1-HHU/lab2))
 
 # Homework
 
