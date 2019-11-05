@@ -10,5 +10,4 @@ Lab 3: [https://classroom.github.com/a/_z_f578W](https://classroom.github.com/a/
 
 Hw 1: [https://classroom.github.com/a/O9OHyGdN](https://classroom.github.com/a/O9OHyGdN) ([solution](https://github.com/TP1-HHU/hw1))
 
-Hw 2: [https://classroom.github.com/a/4iGv7q1z](https://classroom.github.com/a/4iGv7q1z) (due 5.11.19 / 16:00)
- 
+Hw 2: [https://classroom.github.com/a/4iGv7q1z](https://classroom.github.com/a/4iGv7q1z) ([solution](https://github.com/TP1-HHU/hw2))
