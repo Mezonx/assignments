@@ -4,7 +4,7 @@ Lab 1: [https://classroom.github.com/a/uPKxUx8_](https://classroom.github.com/a/
 
 Lab 2: [https://classroom.github.com/a/z8TORSA1](https://classroom.github.com/a/z8TORSA1) ([solution](https://github.com/TP1-HHU/lab2))
 
-Lab 3: [https://classroom.github.com/a/_z_f578W](https://classroom.github.com/a/_z_f578W)
+Lab 3: [https://classroom.github.com/a/_z_f578W](https://classroom.github.com/a/_z_f578W)  ([solution](https://github.com/TP1-HHU/lab3))
 
 # Homework
 
