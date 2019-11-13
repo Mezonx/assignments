@@ -17,3 +17,5 @@ Hw 1: [https://classroom.github.com/a/O9OHyGdN](https://classroom.github.com/a/O
 Hw 2: [https://classroom.github.com/a/4iGv7q1z](https://classroom.github.com/a/4iGv7q1z) ([solution](https://github.com/TP1-HHU/hw2))
 
 Hw 3: [https://classroom.github.com/a/iC4Trb6t](https://classroom.github.com/a/iC4Trb6t) ([solution](https://github.com/TP1-HHU/hw3))
+
+Hw 4: [https://classroom.github.com/a/uXKiFJUY](https://classroom.github.com/a/uXKiFJUY) (Due 19.11./16:00)
