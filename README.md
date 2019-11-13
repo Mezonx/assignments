@@ -8,6 +8,8 @@ Lab 3: [https://classroom.github.com/a/_z_f578W](https://classroom.github.com/a/
 
 Lab 4: [https://classroom.github.com/a/KKpH9kTX](https://classroom.github.com/a/KKpH9kTX) ([solution](https://github.com/TP1-HHU/lab4))
 
+Lab 5: :fire: :octocat: :fire: [https://classroom.github.com/a/CW013r7Q](https://classroom.github.com/a/CW013r7Q)
+
 # Homework
 
 Hw 1: [https://classroom.github.com/a/O9OHyGdN](https://classroom.github.com/a/O9OHyGdN) ([solution](https://github.com/TP1-HHU/hw1))
