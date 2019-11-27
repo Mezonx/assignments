@@ -10,7 +10,7 @@ Lab 4: [https://classroom.github.com/a/KKpH9kTX](https://classroom.github.com/a/
 
 Lab 5: [https://classroom.github.com/a/CW013r7Q](https://classroom.github.com/a/CW013r7Q) ([solution](https://github.com/TP1-HHU/lab5))
 
-Lab 6:  [https://classroom.github.com/a/6AYsvzPQ](https://classroom.github.com/a/6AYsvzPQ)
+Lab 6:  [https://classroom.github.com/a/6AYsvzPQ](https://classroom.github.com/a/6AYsvzPQ) ([solution](https://github.com/TP1-HHU/lab6))
 
 Lab 7: :mag_right: [https://classroom.github.com/a/hMFavRcD](https://classroom.github.com/a/hMFavRcD)
 
