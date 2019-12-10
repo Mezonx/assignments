@@ -12,9 +12,9 @@ Lab 5: [https://classroom.github.com/a/CW013r7Q](https://classroom.github.com/a/
 
 Lab 6:  [https://classroom.github.com/a/6AYsvzPQ](https://classroom.github.com/a/6AYsvzPQ) ([solution](https://github.com/TP1-HHU/lab6))
 
-Lab 7: :mag_right: [https://classroom.github.com/a/hMFavRcD](https://classroom.github.com/a/hMFavRcD)
+Lab 7: [https://classroom.github.com/a/hMFavRcD](https://classroom.github.com/a/hMFavRcD)
 
-Lab 8: :fire: [https://classroom.github.com/a/bz_4NOdP](https://classroom.github.com/a/bz_4NOdP)
+Lab 8:  [https://classroom.github.com/a/bz_4NOdP](https://classroom.github.com/a/bz_4NOdP)
 
 # Homework
 
@@ -26,4 +26,4 @@ Hw 3: [https://classroom.github.com/a/iC4Trb6t](https://classroom.github.com/a/i
 
 Hw 4: [https://classroom.github.com/a/uXKiFJUY](https://classroom.github.com/a/uXKiFJUY) ([solution](https://github.com/TP1-HHU/hw4))]
 
-Hw 5: [https://classroom.github.com/a/gUnJAruK)(https://classroom.github.com/a/gUnJAruK)
+Hw 5: [https://classroom.github.com/a/gUnJAruK](https://classroom.github.com/a/gUnJAruK)
