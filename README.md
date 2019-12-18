@@ -28,4 +28,4 @@ Hw 3: [https://classroom.github.com/a/iC4Trb6t](https://classroom.github.com/a/i
 
 Hw 4: [https://classroom.github.com/a/uXKiFJUY](https://classroom.github.com/a/uXKiFJUY) ([solution](https://github.com/TP1-HHU/hw4))
 
-Hw 5: [https://classroom.github.com/a/gUnJAruK](https://classroom.github.com/a/gUnJAruK)
+Hw 5: [https://classroom.github.com/a/gUnJAruK](https://classroom.github.com/a/gUnJAruK) ([solution](https://github.com/TP1-HHU/hw5))
