@@ -14,9 +14,9 @@ Lab 6:  [https://classroom.github.com/a/6AYsvzPQ](https://classroom.github.com/a
 
 Lab 7: [https://classroom.github.com/a/hMFavRcD](https://classroom.github.com/a/hMFavRcD)
 
-Lab 8:  [https://classroom.github.com/a/bz_4NOdP](https://classroom.github.com/a/bz_4NOdP)
+Lab 8:  [https://classroom.github.com/a/bz_4NOdP](https://classroom.github.com/a/bz_4NOdP) (see solution Lab 9)
 
-Lab 9: [https://classroom.github.com/a/_GTVM5gM](https://classroom.github.com/a/_GTVM5gM)
+Lab 9: [https://classroom.github.com/a/_GTVM5gM](https://classroom.github.com/a/_GTVM5gM) ([solution](https://github.com/TP1-HHU/lab9))
 
 # Homework
 
