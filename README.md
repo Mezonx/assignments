@@ -34,5 +34,5 @@ Hw 4: [https://classroom.github.com/a/uXKiFJUY](https://classroom.github.com/a/u
 
 Hw 5: [https://classroom.github.com/a/gUnJAruK](https://classroom.github.com/a/gUnJAruK) ([solution](https://github.com/TP1-HHU/hw5))
 
-Hw 6: ([https://github.com/TP1-HHU/hw6](https://github.com/TP1-HHU/hw6))
+Hw 6: [https://github.com/TP1-HHU/hw6](https://github.com/TP1-HHU/hw6) (due 14.1.20)
 
