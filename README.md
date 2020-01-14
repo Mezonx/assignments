@@ -20,6 +20,7 @@ Lab 9: [https://classroom.github.com/a/_GTVM5gM](https://classroom.github.com/a/
 
 Lab 10: [https://classroom.github.com/a/VRi1HaYE](https://classroom.github.com/a/VRi1HaYE) ([solution](https://github.com/TP1-HHU/lab10))
 
+Lab 11: [https://classroom.github.com/a/Nxh7XbCu](https://classroom.github.com/a/Nxh7XbCu)
 
 # Homework
 
@@ -33,5 +34,5 @@ Hw 4: [https://classroom.github.com/a/uXKiFJUY](https://classroom.github.com/a/u
 
 Hw 5: [https://classroom.github.com/a/gUnJAruK](https://classroom.github.com/a/gUnJAruK) ([solution](https://github.com/TP1-HHU/hw5))
 
-Hw 6: ([https://github.com/TP1-HHU/hw6](https://github.com/TP1-HHU/hw6))
+Hw 6: [https://github.com/TP1-HHU/hw6](https://github.com/TP1-HHU/hw6) (due 14.1.20)
 
