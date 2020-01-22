@@ -22,7 +22,7 @@ Lab 10: [https://classroom.github.com/a/VRi1HaYE](https://classroom.github.com/a
 
 Lab 11: [https://classroom.github.com/a/Nxh7XbCu](https://classroom.github.com/a/Nxh7XbCu) ([solution](https://github.com/TP1-HHU/lab11))
 
-Lab 12: [https://classroom.github.com/a/E3UVO-w1](https://classroom.github.com/a/E3UVO-w1)
+Lab 12: [https://classroom.github.com/a/E3UVO-w1](https://classroom.github.com/a/E3UVO-w1) ([solution](https://github.com/TP1-HHU/lab12))
 
 Lab 13: [https://classroom.github.com/a/E3UVO-w1](https://classroom.github.com/a/E3UVO-w1) (no text, interactive walk-through in class)
 
