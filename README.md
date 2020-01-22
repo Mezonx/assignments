@@ -24,7 +24,7 @@ Lab 11: [https://classroom.github.com/a/Nxh7XbCu](https://classroom.github.com/a
 
 Lab 12: [https://classroom.github.com/a/E3UVO-w1](https://classroom.github.com/a/E3UVO-w1) ([solution](https://github.com/TP1-HHU/lab12))
 
-Lab 13: [https://classroom.github.com/a/E3UVO-w1](https://classroom.github.com/a/E3UVO-w1) (no text, interactive walk-through in class)
+Lab 13: [https://classroom.github.com/a/E3UVO-w1](https://github.com/TP1-HHU/lab13) (no text, interactive walk-through in class)
 
 # Homework
 
