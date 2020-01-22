@@ -20,7 +20,11 @@ Lab 9: [https://classroom.github.com/a/_GTVM5gM](https://classroom.github.com/a/
 
 Lab 10: [https://classroom.github.com/a/VRi1HaYE](https://classroom.github.com/a/VRi1HaYE) ([solution](https://github.com/TP1-HHU/lab10))
 
-Lab 11: [https://classroom.github.com/a/Nxh7XbCu](https://classroom.github.com/a/Nxh7XbCu)
+Lab 11: [https://classroom.github.com/a/Nxh7XbCu](https://classroom.github.com/a/Nxh7XbCu) ([solution](https://github.com/TP1-HHU/lab11))
+
+Lab 12: [https://classroom.github.com/a/E3UVO-w1](https://classroom.github.com/a/E3UVO-w1) ([solution](https://github.com/TP1-HHU/lab12))
+
+Lab 13: [https://classroom.github.com/a/E3UVO-w1](https://classroom.github.com/a/E3UVO-w1) (no text, interactive walk-through in class)
 
 # Homework
 
@@ -34,5 +38,7 @@ Hw 4: [https://classroom.github.com/a/uXKiFJUY](https://classroom.github.com/a/u
 
 Hw 5: [https://classroom.github.com/a/gUnJAruK](https://classroom.github.com/a/gUnJAruK) ([solution](https://github.com/TP1-HHU/hw5))
 
-Hw 6: [https://github.com/TP1-HHU/hw6](https://github.com/TP1-HHU/hw6) (due 14.1.20)
+Hw 6: [https://github.com/TP1-HHU/hw6](https://github.com/TP1-HHU/hw6) (see lecture notes for solution)
+
+HW 7: [https://github.com/TP1-HHU/hw7](https://github.com/TP1-HHU/hw7)
 
